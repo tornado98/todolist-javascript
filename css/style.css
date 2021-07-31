@@ -1,0 +1,18 @@
+.list-group>.list-group-item>i {
+    color: rgba(240, 62, 62, 0.938);
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.list-group-item>span {
+    cursor: pointer;
+}
+
+video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
